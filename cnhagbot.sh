@@ -18,11 +18,11 @@ echo -e "${GREEN} Script is made by CRYTO NEWS${NC}"
 echo -e "-------------------------------------"
 
 # Large ASCII Text with BANNER color
-echo -e "${YELLOW}  CCCCC  RRRRR   Y   Y  PPPP   TTTTT  OOO      N   N   EEEEE      EEEEE  W   W   SSSS${NC}"
-echo -e "${YELLOW} C       R    R    Y Y   P   P   T   O   O     NN  N   E          E      W   W  S    ${NC}"
-echo -e "${YELLOW} C       RRRRR      Y    PPPP    T   O   O     N N N   EEEE       EEEE   W W W   SSS ${NC}"
-echo -e "${YELLOW} C       R   R      Y    P       T   O   O     N  NN   E          E      W W W      S${NC}"
-echo -e "${YELLOW}  CCCCC  R    R     Y    P       T    OOO      N   N   EEEEE      EEEEE   W W    SSS ${NC}"
+echo -e "${YELLOW}  CCCCC  RRRRR   Y   Y  PPPP   TTTTT  OOO      N   N   EEEEE    W   W   SSSS${NC}"
+echo -e "${YELLOW} C       R    R    Y Y   P   P   T   O   O     NN  N   E        W   W  S    ${NC}"
+echo -e "${YELLOW} C       RRRRR      Y    PPPP    T   O   O     N N N   EEEE     W W W   SSSS${NC}"
+echo -e "${YELLOW} C       R   R      Y    P       T   O   O     N  NN   E        W W W      S${NC}"
+echo -e "${YELLOW}  CCCCC  R    R     Y    P       T    OOO      N   N   EEEEE     W W    SSSS${NC}"
 
 
 echo -e "${YELLOW}==============================================Alliance Game==================================================${NC}"
@@ -223,11 +223,11 @@ echo -e "${GREEN} Thanks for using the script${NC}"
 echo -e "-------------------------------------"
 
 # Large ASCII Text with BANNER color
-echo -e "${YELLOW}  CCCCC  RRRRR   Y   Y  PPPP   TTTTT  OOO      N   N   EEEEE      EEEEE  W   W   SSSS${NC}"
-echo -e "${YELLOW} C       R    R    Y Y   P   P   T   O   O     NN  N   E          E      W   W  S    ${NC}"
-echo -e "${YELLOW} C       RRRRR      Y    PPPP    T   O   O     N N N   EEEE       EEEE   W W W   SSS ${NC}"
-echo -e "${YELLOW} C       R   R      Y    P       T   O   O     N  NN   E          E      W W W      S${NC}"
-echo -e "${YELLOW}  CCCCC  R    R     Y    P       T    OOO      N   N   EEEEE      EEEEE   W W    SSS ${NC}"
+echo -e "${YELLOW}  CCCCC  RRRRR   Y   Y  PPPP   TTTTT  OOO      N   N   EEEEE    W   W   SSSS${NC}"
+echo -e "${YELLOW} C       R    R    Y Y   P   P   T   O   O     NN  N   E        W   W  S    ${NC}"
+echo -e "${YELLOW} C       RRRRR      Y    PPPP    T   O   O     N N N   EEEE     W W W   SSSS${NC}"
+echo -e "${YELLOW} C       R   R      Y    P       T   O   O     N  NN   E        W W W      S${NC}"
+echo -e "${YELLOW}  CCCCC  R    R     Y    P       T    OOO      N   N   EEEEE     W W    SSSS${NC}"
 
 
 echo "========================================="
