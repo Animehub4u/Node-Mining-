@@ -25,10 +25,8 @@ echo -e "\____/\_/\_\/_/   \_/     \_/  \____/  \_/  \|\____\\_/  \|\____/"
 echo -e '\e[0m'
 echo "======================================================="
 
-echo -e "${YELLOW}Telegram: ${GREEN}https://t.me/cryptonodehindi${NC}"
-echo -e "${YELLOW}Twitter: ${GREEN}@CryptonodeHindi${NC}"
-echo -e "${YELLOW}YouTube: ${GREEN}https://www.youtube.com/@CryptonodesHindi${NC}"
-echo -e "${YELLOW}Medium: ${CYAN}https://medium.com/@cryptonodehindi${NC}"
+echo -e "${YELLOW}Telegram: ${GREEN}https://t.me/CryptoNewbie110${NC}"
+echo -e "${YELLOW}Twitter: ${GREEN}@CryptoNews${NC}"
 echo "======================================================="
 
 echo -e "${YELLOW}Updating and upgrading system packages...${NC}"
